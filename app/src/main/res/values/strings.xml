@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Fit Demo</string>
+    <string name="snackbar_text">Saving to Google Fit...</string>
+</resources>
