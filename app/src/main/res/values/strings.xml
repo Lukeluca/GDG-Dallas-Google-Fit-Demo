@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">Google Fit Demo</string>
     <string name="snackbar_text">Saving to Google Fit...</string>
+    <string name="title_activity_tabbed">Google Fit Demo</string>
+
+    <string name="title_section1">Sweets</string>
+    <string name="title_section2">Exercises</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_section3">Section 3</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
